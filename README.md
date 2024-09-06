@@ -8,3 +8,21 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I know the proper code for everything in gradius 3 snes it is up up down down left bumper right bumper left bumper right bumper
 -->
+<p align='center'> 
+
+   <a href="https://github-readme-stats.vercel.app/api?username=wwwwwwwfang&show_icons=true&count_private=true"> 
+
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"/> 
+
+   </a> 
+
+   <a href="https://github.com/wwwwwwwwfang/github-readme-stats"> 
+
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact"/> 
+
+   </a> 
+
+</p> 
+## 🛠 Technology Stack 
+a bit of lua
+python
