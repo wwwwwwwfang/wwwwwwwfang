@@ -23,6 +23,6 @@
    </a> 
 
 </p> 
-## 🛠 Technology Stack 
-a bit of lua
+## 🛠 Technology Stack.
+a bit of lua,
 python
